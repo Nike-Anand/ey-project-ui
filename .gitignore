@@ -1,0 +1,8 @@
+﻿.DS_Store
+Thumbs.db
+*.zip
+*.7z
+*.tar.gz
+*.rar
+pyvenv.cfg
+*.zip
